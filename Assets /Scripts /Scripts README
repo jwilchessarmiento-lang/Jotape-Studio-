@@ -1,0 +1,11 @@
+# Game Scripts
+
+This folder contains the main gameplay scripts for Bogotá Explora Conmigo.
+
+- `PlayerController.cs`: manages player movement.
+- `FollowCamera.cs`: controls the camera following the player.
+- `InteractableLandmark.cs`: handles interactions with landmarks.
+- `CollectibleMemory.cs`: manages collectible memories.
+- `UIManager.cs`: manages the user interface.
+
+These scripts support the organization and implementation of the game's main features.
