@@ -1,0 +1,9 @@
+# Recursos del videojuego
+
+En esta carpeta se organizan los recursos de Bogotá Explora Conmigo para facilitar el desarrollo del proyecto.
+
+- **Models:** modelos 3D de los elementos del escenario.
+- **Prefabs:** objetos preparados como base para su integración en Unity.
+- **Materials:** materiales y texturas visuales.
+- **Sprites:** imágenes de los elementos gráficos.
+- **Scripts:** código C# para las funcionalidades del videojuego.
